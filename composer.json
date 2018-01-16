@@ -1,5 +1,5 @@
 {
-  "name": "apptrian/image-optimizer",
+  "name": "apptrian/m2-image-optimizer",
   "description": "Optimize your images, reduce their file size without losing image quality and speed up your site.",
   "type": "magento2-module",
   "version": "2.2.1",
